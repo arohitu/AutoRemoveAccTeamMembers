@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountTeamMember.Auto_Remove__c</members>
+        <members>AccountTeamMember.End_Date__c</members>
+        <members>AccountTeamMember.End_Date__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Future_Delete_Account_Team_Members-2</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Future_Delete_Account_Team</members>
+        <name>FlowDefinition</name>
+    </types>
+    <types>
+        <members>AccountTeamMember-Account Team Member Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>43.0</version>
+</Package>
